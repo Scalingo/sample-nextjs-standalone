@@ -1,0 +1,7 @@
+dependencies = []
+description = "Next.js sample application"
+languages = ["dockerfile", "javascript"]
+owner = "devrel@scalingo.com"
+team = "DevRel"
+version = "1.0.2"
+tier = 2
