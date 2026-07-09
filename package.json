@@ -23,6 +23,6 @@
     "eslint": "^10.6.0",
     "eslint-config-next": "^16.2.10",
     "postcss": "^8",
-    "typescript": "6.0.3"
+    "typescript": "7.0.2"
   }
 }
