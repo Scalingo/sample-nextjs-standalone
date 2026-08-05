@@ -1,6 +1,6 @@
 services:
   web:
-    image: "node:22"
+    image: "node:26"
     working_dir: /app
     volumes:
       - .:/app
