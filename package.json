@@ -27,5 +27,8 @@
     "eslint-config-next": "^16.4.3",
     "postcss": "^8",
     "typescript": "7.0.2"
+  },
+  "resolutions": {
+    "minimatch": "^11.0.4"
   }
 }
