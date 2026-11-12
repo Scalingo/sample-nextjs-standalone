@@ -12,7 +12,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.3.3",
+    "@tailwindcss/postcss": "^4.3.5",
     "next": "^16.4.3",
     "react": "^19",
     "react-dom": "^19",
